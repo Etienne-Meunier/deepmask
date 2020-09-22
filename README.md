@@ -42,6 +42,7 @@ To run pretrained DeepMask/SharpMask models to generate object proposals, follow
    ```
 
 2. Download pre-trained DeepMask and SharpMask models:
+  The network weights should be already download and placed in $Dataria/Models/deepmask ( or sharpmask) !
 
    ```bash
    mkdir -p $DEEPMASK/pretrained/deepmask; cd $DEEPMASK/pretrained/deepmask
